@@ -5,5 +5,5 @@ public class Homework6 {
         System.out.println("Задание6");
 
     }
-    //проверка коммита здесь
+    //проверка коммита тут
 }
